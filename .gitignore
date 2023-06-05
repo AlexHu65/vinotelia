@@ -1,0 +1,4 @@
+laravel/node_modules
+laravel/.env
+laravel/vendor
+lrvl_template.sql
